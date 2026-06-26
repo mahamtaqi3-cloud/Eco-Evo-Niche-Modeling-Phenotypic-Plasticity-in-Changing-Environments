@@ -37,11 +37,4 @@ This project simulates this trade-off to observe how natural selection optimizes
 3. Run the cells sequentially. The simulation loop is optimized for GPU-accelerated environments.
 4. Modify the `cost_coefficient` and `mutation_rate` parameters in the simulation block to observe shifts in evolutionary strategy.
 
-### Future Scope
-
-This platform provides a foundation for more complex evolutionary studies, including:
-
-* Modeling **Niche Construction** in urban environments.
-* Integrating real-world climatic data to study **Urban Heat Island** adaptation.
-* Expanding to **Epigenetic Inheritance** and gene-regulatory networks.
 
