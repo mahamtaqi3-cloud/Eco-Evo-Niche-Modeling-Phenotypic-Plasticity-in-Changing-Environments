@@ -1,4 +1,4 @@
-# Eco-Evo-Niche: Modeling Phenotypic Plasticity
+# Eco-Evo-Niche: Modeling Phenotypic Plasticity in Changing Environments
 
 ### Overview
 
